@@ -1,0 +1,304 @@
+pct	numerator	denominator
+New Forest PCT	35,078	41,980
+Norwich PCT	24,804	31,824
+South Gloucestershire PCT	50,051	61,921
+Havering PCT	48,686	59,804
+Kingston PCT	35,796	45,449
+Bromley PCT	66,970	80,002
+Greenwich PCT	48,514	64,755
+Barnet PCT	70,670	93,122
+South Manchester PCT	26,029	33,708
+Daventry and South Northamptonshire PCT	22,506	25,932
+North Peterborough PCT	20,620	25,852
+South Peterborough PCT	19,847	23,684
+Tendring PCT	23,618	28,954
+Epping Forest PCT	21,121	27,530
+Southend on Sea PCT	30,294	41,066
+Central Derby PCT	24,649	30,521
+Mansfield District PCT	18,986	22,000
+North East Lincolnshire PCT	31,759	39,350
+Newark and Sherwood PCT	26,008	29,850
+Hillingdon PCT	49,525	63,065
+Airedale PCT	24,107	28,519
+Enfield PCT	55,472	73,972
+Barking and Dagenham PCT	30,573	39,752
+City and Hackney Teaching PCT	49,513	69,993
+Tower Hamlets PCT	39,350	52,293
+Newham PCT	54,064	71,034
+Haringey Teaching PCT	55,439	77,743
+Blackburn with Darwen PCT	29,562	36,627
+North Dorset PCT	18,632	21,342
+Bournemouth Teaching PCT	32,138	38,024
+Bradford City PCT	18,365	29,277
+Bradford South and West PCT	27,622	35,076
+North Bradford PCT	18,205	22,215
+Doncaster Central PCT	20,235	24,590
+Central Manchester PCT	29,723	41,845
+Dartford, Gravesham and Swanley PCT	46,856	56,453
+Herefordshire PCT	33,894	40,989
+Hertsmere PCT	18,551	22,905
+Milton Keynes PCT	48,476	59,604
+North Manchester PCT	27,846	36,486
+South Hams and West Devon PCT	21,114	25,214
+Trafford South PCT	26,529	32,048
+West Norfolk PCT	26,789	33,012
+Solihull PCT	43,206	51,744
+West Lincolnshire PCT	42,896	55,818
+Lincolnshire South West Teaching PCT	39,000	45,662
+Carlisle and District PCT	24,877	29,528
+Eden Valley PCT	15,990	18,602
+West Cumbria PCT	27,610	33,434
+Newcastle PCT	51,464	63,185
+North Tyneside PCT	42,343	50,967
+Hartlepool PCT	17,321	21,587
+Harlow PCT	15,808	20,597
+Morecambe Bay PCT	58,477	73,316
+North Hampshire PCT	40,168	48,949
+Isle of Wight PCT	26,670	31,480
+West Wiltshire PCT	23,388	29,985
+South Wiltshire PCT	23,320	29,848
+Newbury and Community PCT	22,102	26,885
+Reading PCT	41,086	52,566
+Slough PCT	22,095	28,969
+Wokingham PCT	31,574	39,212
+Vale of Aylesbury PCT	43,009	50,380
+Burntwood, Lichfield and Tamworth PCT	32,822	38,411
+Wyre Forest PCT	22,031	27,388
+North East Oxfordshire PCT	16,405	19,574
+Cherwell Vale PCT	26,103	31,442
+Oxford City PCT	32,073	42,520
+South East Oxfordshire PCT	16,972	20,522
+South West Oxfordshire PCT	41,936	49,764
+North Tees PCT	36,850	45,449
+Selby and York PCT	58,528	68,598
+East Yorkshire PCT	32,974	37,715
+Yorkshire Wolds and Coast PCT	31,386	36,649
+Eastern Hull PCT	24,146	28,886
+West Hull PCT	30,111	37,037
+Eastern Wakefield PCT	37,539	44,743
+Wakefield West PCT	31,681	37,951
+Mid-Hampshire PCT	34,502	42,485
+Chesterfield PCT	24,108	28,177
+Gedling PCT	20,624	23,267
+Amber Valley PCT	28,315	32,569
+North Sheffield PCT	23,686	28,397
+North Lincolnshire PCT	32,312	39,024
+North Eastern Derbyshire PCT	31,340	36,240
+Melton, Rutland and Harborough PCT	29,337	34,665
+Leicester City West PCT	26,560	33,710
+Doncaster East PCT	17,972	21,012
+Doncaster West PCT	21,060	25,306
+Nottingham City PCT	55,711	66,704
+Sheffield West PCT	23,910	29,457
+Sheffield South West PCT	24,790	28,879
+South East Sheffield PCT	30,239	36,904
+Erewash PCT	19,328	22,229
+Bassetlaw PCT	21,956	25,661
+Broxtowe and Hucknall PCT	29,302	33,415
+Greater Derby PCT	30,821	36,363
+Eastern Leicester PCT	30,899	41,160
+Plymouth Teaching PCT	49,994	61,050
+Chorley and South Ribble PCT	44,395	52,801
+West Lancashire PCT	21,954	26,868
+Heywood and Middleton PCT	14,493	17,964
+Salford PCT	41,853	53,174
+Trafford North PCT	17,967	22,603
+Stockport PCT	60,027	73,079
+Bebington and West Wirral PCT	21,835	26,307
+Southport and Formby PCT	21,838	28,041
+Ashfield PCT	17,288	19,998
+Rushcliffe PCT	26,372	29,775
+East Hampshire PCT	37,216	45,986
+Portsmouth City Teaching PCT	33,459	42,962
+South West Kent PCT	39,994	46,821
+Bexhill and Rother PCT	15,371	17,951
+Hastings and St Leonards PCT	18,169	21,739
+Mid-Sussex PCT	29,197	35,632
+Bath and North East Somerset PCT	34,759	44,449
+West of Cornwall PCT	30,453	37,741
+South and East Dorset PCT	29,865	33,880
+South West Dorset PCT	27,618	32,507
+North Devon PCT	30,278	37,828
+Exeter PCT	24,867	30,929
+East Devon PCT	21,139	25,992
+Mid Devon PCT	20,760	25,750
+Somerset Coast PCT	27,036	32,898
+Mendip PCT	21,823	26,517
+Teignbridge PCT	21,463	25,491
+Southern Norfolk PCT	41,389	49,508
+Bracknell Forest PCT	21,306	26,333
+Windsor, Ascot and Maidenhead PCT	34,088	42,926
+Chiltern and South Bucks PCT	35,805	42,433
+Wycombe PCT	29,922	35,860
+Blackwater Valley and Hart PCT	37,930	45,904
+Hyndburn and Ribble Valley PCT	22,298	26,865
+Burnley, Pendle and Rossendale PCT	49,272	59,493
+North Liverpool PCT	20,650	27,121
+Luton PCT	36,344	46,028
+Bedford PCT	29,299	36,929
+Bedfordshire Heartlands PCT	53,486	64,965
+Huntingdonshire PCT	33,001	38,720
+Welwyn Hatfield PCT	18,774	23,894
+North Hertfordshire and Stevenage PCT	38,314	47,678
+South East Hertfordshire PCT	38,045	46,958
+Royston, Buntingford and Bishop's Stortford PCT	16,924	20,776
+Maldon and South Chelmsford PCT	17,414	21,085
+Colchester PCT	34,189	42,001
+Uttlesford PCT	15,525	19,257
+Billericay, Brentwood and Wickford PCT	30,035	37,269
+Thurrock PCT	27,851	36,724
+Basildon PCT	19,109	25,513
+Great Yarmouth PCT	16,997	21,839
+Watford and Three Rivers PCT	35,982	44,461
+Dacorum PCT	30,906	37,075
+St Albans and Harpenden PCT	30,007	35,752
+Hammersmith and Fulham PCT	41,002	59,726
+Birkenhead and Wallasey PCT	41,581	53,166
+Cheshire West PCT	33,432	39,795
+Central Cheshire PCT	53,874	63,877
+Eastern Cheshire PCT	41,826	49,005
+Ellesmere Port and Neston PCT	17,487	21,176
+Derbyshire Dales and South Derbyshire PCT	19,021	22,441
+Rotherham PCT	48,591	60,459
+East Lincolnshire PCT	52,752	64,806
+Central Liverpool PCT	46,269	62,594
+South Liverpool PCT	17,678	23,328
+Preston PCT	27,321	34,024
+Fylde PCT	13,551	16,386
+Wyre PCT	24,181	29,151
+Ashton, Leigh and Wigan PCT	59,356	73,352
+Leeds West PCT	21,667	26,869
+Leeds North East PCT	30,130	38,149
+East Leeds PCT	27,715	34,981
+South Leeds PCT	29,335	36,238
+Leeds North West PCT	32,731	43,289
+High Peak and Dales PCT	21,893	25,666
+Blackpool PCT	27,707	35,345
+Bolton PCT	55,735	67,714
+Staffordshire Moorlands PCT	22,558	26,236
+Dudley South PCT	41,658	50,202
+Dudley Beacon and Castle PCT	20,013	25,196
+Newcastle-under-Lyme PCT	20,126	24,254
+Ealing PCT	72,885	96,053
+Hounslow PCT	51,088	67,595
+Halton PCT	24,159	30,906
+Warrington PCT	41,206	49,616
+St Helens PCT	37,299	46,277
+Knowsley PCT	29,054	38,436
+Oldham PCT	44,674	54,255
+Calderdale PCT	41,423	49,103
+North Kirklees PCT	33,743	40,747
+Durham Dales PCT	18,599	22,264
+Darlington PCT	20,276	24,544
+Hinckley and Bosworth PCT	21,878	25,943
+Charnwood and North West Leicestershire PCT	48,450	57,135
+South Leicestershire PCT	33,211	39,284
+Barnsley PCT	46,718	58,617
+Bristol North PCT	40,575	54,647
+Bristol South and West PCT	38,496	50,507
+Cambridge City PCT	25,939	32,834
+South Cambridgeshire PCT	23,105	27,112
+East Cambridgeshire and Fenland PCT	29,376	35,248
+Broadland PCT	25,157	29,775
+North Norfolk PCT	18,505	22,739
+Chelmsford PCT	25,810	31,172
+Castle Point and Rochford PCT	32,352	40,787
+Ipswich PCT	29,948	35,763
+Suffolk Coastal PCT	19,677	23,111
+Central Suffolk PCT	21,058	24,543
+Waveney PCT	24,218	28,670
+Suffolk West PCT	48,244	57,427
+Bury PCT	37,765	45,803
+Rochdale PCT	26,734	32,867
+South Somerset PCT	29,312	35,908
+Taunton Deane PCT	20,781	25,672
+Swindon PCT	38,385	48,619
+Kennet and North Wiltshire PCT	40,087	51,705
+Brent Teaching PCT	64,291	88,775
+Harrow PCT	43,880	56,220
+Camden PCT	50,161	68,043
+Islington PCT	46,828	61,901
+Croydon PCT	71,273	92,108
+Derwentside PCT	17,184	20,920
+Durham and Chester-le-Street PCT	30,310	36,699
+Easington PCT	18,747	23,233
+Sedgefield PCT	19,663	24,012
+Gateshead PCT	40,417	49,518
+South Tyneside PCT	29,709	36,583
+Hambleton and Richmondshire PCT	24,155	28,035
+Craven, Harrogate and Rural District PCT	44,690	52,171
+Scarborough, Whitby and Ryedale PCT	32,811	38,077
+Sunderland Teaching PCT	56,140	70,053
+Middlesbrough PCT	33,698	42,484
+Langbaurgh PCT	19,941	24,224
+East Elmbridge and Mid Surrey PCT	57,184	68,656
+East Surrey PCT	32,556	39,476
+North and East Cornwall PCT	32,295	39,188
+Central Cornwall PCT	40,118	49,273
+Poole PCT	35,177	39,734
+Cheltenham and Tewkesbury PCT	32,336	38,893
+West Gloucestershire PCT	43,887	53,586
+Cotswold and Vale PCT	40,207	47,883
+Southampton City PCT	42,177	54,233
+Maidstone Weald PCT	51,595	60,922
+Medway PCT	55,826	67,139
+Swale PCT	19,388	23,308
+Guildford and Waverley PCT	50,623	61,593
+North Surrey PCT	44,621	54,462
+Woking Area PCT	42,725	51,594
+Adur, Arun and Worthing PCT	41,846	51,789
+Western Sussex PCT	39,310	49,242
+Kensington and Chelsea PCT	41,729	57,908
+Westminster PCT	47,373	66,647
+Lambeth PCT	74,613	101,060
+Southwark PCT	56,898	79,835
+Lewisham PCT	58,380	77,324
+Wandsworth PCT	69,814	92,776
+Tameside and Glossop PCT	46,932	56,929
+Huddersfield Central PCT	27,544	32,393
+South Huddersfield PCT	19,619	22,406
+Ashford PCT	21,615	25,671
+Canterbury and Coastal PCT	31,834	38,345
+East Kent Coastal PCT	43,623	52,274
+Shepway PCT	18,673	22,683
+Brighton and Hove City PCT	58,815	72,237
+Eastbourne Downs PCT	32,776	38,977
+Sussex Downs and Weald PCT	33,233	38,620
+Northamptonshire Heartlands PCT	56,531	68,622
+Northampton PCT	42,276	51,670
+Fareham and Gosport PCT	37,945	46,875
+Eastleigh and Test Valley South PCT	32,638	38,786
+South Birmingham PCT	67,290	87,435
+Shropshire County PCT	56,612	67,540
+Walsall Teaching PCT	48,822	60,990
+South Sefton PCT	28,735	37,631
+Richmond and Twickenham PCT	45,239	56,634
+Sutton and Merton PCT	81,413	102,950
+North Somerset PCT	38,873	48,236
+Rugby PCT	18,003	21,955
+Crawley PCT	22,442	28,946
+Horsham and Chanctonbury PCT	20,274	24,292
+Coventry Teaching PCT	59,851	75,992
+North Stoke PCT	24,375	29,438
+South Stoke PCT	27,340	33,131
+Oldbury and Smethwick PCT	20,574	25,948
+Rowley Regis and Tipton PCT	13,241	16,477
+Wednesbury and West Bromwich PCT	25,813	32,753
+Telford and Wrekin PCT	31,973	39,488
+East Staffordshire PCT	25,717	30,806
+Cannock Chase PCT	25,700	30,775
+South Western Staffordshire PCT	38,797	46,397
+North Warwickshire PCT	36,355	43,838
+South Warwickshire PCT	53,914	64,537
+Redditch and Bromsgrove PCT	33,507	40,482
+South Worcestershire PCT	53,405	67,363
+Wolverhampton City PCT	46,845	58,962
+North Birmingham PCT	36,379	45,202
+Heart of Birmingham Teaching PCT	45,321	63,904
+Eastern Birmingham PCT	43,014	55,181
+Redbridge PCT	45,488	60,066
+Waltham Forest PCT	49,697	65,331
+Northumberland Care Trust	66,152	76,273
+Witham, Braintree and Halstead Care Trust	28,537	35,201
+Bexley Care Trust	45,559	54,070
+Torbay Care Trust	26,882	32,573

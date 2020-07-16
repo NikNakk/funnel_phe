@@ -1,0 +1,35 @@
+---
+title: "Example Funnel plots"
+author: "Nick Kennedy"
+date: "16/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(cowplot)
+source("funnel_phe.R")
+```
+
+## Example funnel plot
+
+```{r}
+sample_data <- read_tsv("sample_data.txt")
+knitr::kable(head(sample_data))
+
+sample_pcts <- sample(sample_data$pct, 6)
+
+walk(
+  sample_pcts,
+  ~print(
+    make_funnel_phe(
+      sample_data,
+      numerator = numerator,
+      denominator = denominator,
+      highlighted = pct == .x
+    ) +
+      ggtitle(.x)
+  )
+)
+```
