@@ -14,7 +14,7 @@ source("funnel_phe.R")
 
 ## Example funnel plot
 
-```{r}
+```{r, warning=FALSE}
 sample_data <- read_tsv("sample_data.txt")
 knitr::kable(head(sample_data))
 
